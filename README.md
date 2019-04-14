@@ -1,4 +1,4 @@
-# P-MatRes
+# PMatRes
 
 [![DOI](https://zenodo.org/badge/181243548.svg)](https://zenodo.org/badge/latestdoi/181243548)
 
@@ -15,5 +15,5 @@ Earth and planetary science tutorials and courses.
 
 ## How to cite
 
-S.-H. Shim (2019) P-MatRes - Tutorial modules for planetary materials research 
+S.-H. Shim (2019) PMatRes - Tutorial modules for planetary materials research 
 in Jupyter notebook. Zenodo. http://doi.org/10.5281/zenodo.8475
