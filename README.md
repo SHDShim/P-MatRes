@@ -2,11 +2,12 @@
 
 [![DOI](https://zenodo.org/badge/181243548.svg)](https://zenodo.org/badge/latestdoi/181243548)
 
-Tutorials for teaching planetary materials research in Jupyter notebook
+Tutorial modules for planetary materials research in Jupyter notebook
 
 ## Goals
 
-Through a series of jupyter notebook tutorials, we wish to provide teaching modules for Earth and planetary science courses.
+Through a series of jupyter notebooks, we wish to provide materials for 
+Earth and planetary science tutorials and courses.
 
 ## History
 
@@ -14,4 +15,5 @@ Through a series of jupyter notebook tutorials, we wish to provide teaching modu
 
 ## How to cite
 
-S.-H. Shim (2019) P-MatRes - Teaching modules for planetary materials research in Jupyter notebook. Zenodo. http://doi.org/10.5281/zenodo.8475
+S.-H. Shim (2019) P-MatRes - Tutorial modules for planetary materials research 
+in Jupyter notebook. Zenodo. http://doi.org/10.5281/zenodo.8475
