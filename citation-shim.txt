@@ -1,0 +1,1 @@
+How to cite: S.-H. Shim (2019) PMatRes - Tutorial modules for planetary materials research in Jupyter notebook. Zenodo. http://doi.org/10.5281/zenodo.8475
